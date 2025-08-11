@@ -30,7 +30,7 @@
 ## 📊 Моя статистика GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilyasoskov4&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasoskov4&layout=compact&theme=dark)
+
 
 ---
 
